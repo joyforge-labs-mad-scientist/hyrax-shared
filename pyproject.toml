@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hyrax-shared"
-version = "0.2.0"
+version = "0.3.0"
 description = "Shared Python utilities for the Hyrax pre-KYB pipeline (SSRF URL safety, PII masking, etc.)"
 readme = "README.md"
 license = {text = "MIT"}
